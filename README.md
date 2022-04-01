@@ -1,2 +1,3 @@
 # awesome-github-actions
-My favorite GitHub Actions
+
+- [TOC Generator](https://github.com/marketplace/actions/toc-generator)
